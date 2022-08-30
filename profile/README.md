@@ -8,5 +8,5 @@ Welcome to the [ Code, Tech, and Tutorials ](https://www.youtube.com/channel/UC4
 
 🧙 Keep Coding!
 
-[<img src="https://logos-world.net/wp-content/uploads/2020/12/Patreon-Logo.png" width="16"/>](https://www.patreon.com/codetechtuts) Help me keep making tutorials by supporting via Patreon!
+[<img src="https://logos-world.net/wp-content/uploads/2020/12/Patreon-Logo.png" width="32"/>](https://www.patreon.com/codetechtuts) Help me keep making tutorials by supporting via Patreon!
 
