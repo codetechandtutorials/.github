@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://discord.gg/TJ8Bs726jF"> <img src="https://img.shields.io/discord/380484403458998276?logo=discord"> </a>
+  <a href="https://discord.gg/TJ8Bs726jF"> <img src="https://img.shields.io/discord/772958096016015400?logo=discord"> </a>
 </p>
 
 Welcome to the [ Code, Tech, and Tutorials ](https://www.youtube.com/channel/UC4EJN2OSNdl-mSxGjitRvyA) Github page!
