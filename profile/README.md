@@ -6,7 +6,7 @@
 
 Welcome to the [ Code, Tech, and Tutorials ](https://www.youtube.com/channel/UC4EJN2OSNdl-mSxGjitRvyA) Github page!
 
-🙋‍♀️ Dedicated to helping you improve your code skills!
+🙋‍♀️ CTT is a YouTube channel dedicated to helping you improve your code skills! This account is for code shown on the channel.
 
 🌈 Anyone is willing to contribute. If you have something to correct or add, feel free to make a pull request!
 
